@@ -1,6 +1,8 @@
-@import '~normalize.css';
 @import 'variables';
 @import 'mixins';
 @import 'functions';
 
-
+/* utils */
+.text-center {
+  text-align: center;
+}
