@@ -1,0 +1,4 @@
+NODE_ENV=production
+VUE_APP_TITLE=Vue (production)
+VUE_APP_API_URL=https://api-server.mofaxiao.com
+VUE_APP_DEBUG=disable
