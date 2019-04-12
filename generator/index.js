@@ -14,7 +14,8 @@ module.exports = (api, options, rootOptions) => {
       'gulp-ssh': '^0.7.0',
       'git-cz': '^2.0.0',
       'compression-webpack-plugin': '^2.0.0',
-      'vconsole-webpack-plugin': '^1.4.2'
+      'vconsole-webpack-plugin': '^1.4.2',
+      'postcss-px-to-viewport': '^1.1.0'
     },
     scripts: {
       'dev': 'vue-cli-service serve',
