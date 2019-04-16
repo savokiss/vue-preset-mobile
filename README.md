@@ -1,4 +1,5 @@
-# 魔法校前端 Preset Mobile
+# Vue Project Preset Mobile
+Vue 项目模板移动端 preset
 
 ## Usage
 
