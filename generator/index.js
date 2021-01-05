@@ -4,16 +4,16 @@ module.exports = (api, options, rootOptions) => {
   // 修改 `package.json` 里的字段
   api.extendPackage({
     dependencies: {
-      'axios': '^0.18.0',
-      'js-cookie': '^2.2.0',
-      'vue-router': '^3.0.3',
-      'vuex': '^3.1.0'
+      'axios': '^0.21.1',
+      'js-cookie': '^2.2.1',
+      'vue-router': '^3.4.9',
+      'vuex': '^3.6.0'
     },
     devDependencies: {
-      'git-cz': '^2.0.0',
+      'git-cz': '^4.7.6',
       'compression-webpack-plugin': '^2.0.0',
-      'vconsole-webpack-plugin': '^1.4.2',
-      'postcss-px-to-viewport': '^1.1.0'
+      'vconsole-webpack-plugin': '^1.5.2',
+      'postcss-px-to-viewport': '^1.1.1'
     },
     scripts: {
       'dev': 'vue-cli-service serve',
