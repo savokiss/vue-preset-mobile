@@ -1,6 +1,6 @@
 {
   "name": "vue-preset-mobile",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MS vue preset for mobile projects",
   "main": "prompts.js",
   "scripts": {
