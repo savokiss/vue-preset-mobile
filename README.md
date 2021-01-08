@@ -1,5 +1,10 @@
 # Vue Project Preset Mobile
+
 Vue 项目模板移动端 preset
+
+## Related Projects
+
+- [Vue Preset PC](https://github.com/savokiss/vue-preset-pc)
 
 ## Usage
 
