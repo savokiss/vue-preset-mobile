@@ -1,7 +1,9 @@
 import * as types from '../mutation-types'
 
 const template = {
-  loggedUser: {}
+  loggedUser: {
+    name: ''
+  }
 }
 
 const state = {
@@ -31,6 +33,7 @@ const mutations = {
 }
 
 export default {
+  namespaced: true,
   state,
   getters,
   actions,
