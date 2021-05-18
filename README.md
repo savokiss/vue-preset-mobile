@@ -31,4 +31,4 @@ vue create --preset savokiss/vue-preset-mobile <project-name>
 
 ## CHANGELOG
 
-[CHANGELOG](./CHANGELOG)
+[CHANGELOG](./CHANGELOG.md)
