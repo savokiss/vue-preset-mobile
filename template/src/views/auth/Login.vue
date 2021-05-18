@@ -15,7 +15,7 @@ export default {
   },
   mounted () {
     // 注意需要加 auth 前缀
-    this.$dispatch('auth/userLogin', {
+    this.$store.dispatch('auth/userLogin', {
       name: 'savo'
     })
   }
