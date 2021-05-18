@@ -6,8 +6,8 @@ module.exports = (api, options, rootOptions) => {
     dependencies: {
       'axios': '^0.21.1',
       'js-cookie': '^2.2.1',
-      'vue-router': '^3.4.9',
-      'vuex': '^3.6.0'
+      'vue-router': '^3.5.1',
+      'vuex': '^3.6.2'
     },
     devDependencies: {
       'git-cz': '^4.7.6',
