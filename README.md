@@ -28,3 +28,7 @@ vue create --preset savokiss/vue-preset-mobile <project-name>
 6. 使用`vconsole-webpack-plugin`集成 vconsole，生产环境默认关闭
 7. Service 层封装 axios
 8. 模块化 Vuex Store
+
+## CHANGELOG
+
+[CHANGELOG](./CHANGELOG)
